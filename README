@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3245
+
+A green-orange color scheme. 
+
+Heliotrope (a.k.a. bloodstone) is a mineral that is a dark chalcedony green with orange-red streaks. 
+
+As I do most of my coding in Haskell, the colors for syntax elements has been chosen with their prevalence in mind: functions in orange, green for types and then different shades of each for the rest.
+
+Screenshots: 
+    http://luola.net/~ane/misc/helio1.png - Haskell and Java
+    http://luola.net/~ane/misc/helio2.png - Haskell (again!) and Ruby
